@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN41417ucmf_6_0002.png"; bbox 0 0 2412 3352; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 534 1609 1206 1983">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 534 1535 1206 1960">
+     <span class='ocr_line' id='line_1_1' title="bbox 534 1609 1206 1761; baseline -0.017 0"><span class='ocrx_word' id='word_1_1' title='bbox 534 1609 1206 1761; x_wconf 68' lang='lat' dir='ltr'>preservation-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 587 1807 1203 1983; baseline -0.015 -23"><span class='ocrx_word' id='word_1_2' title='bbox 587 1812 1107 1983; x_wconf 79' lang='lat' dir='ltr'>Bethlehem</span> <span class='ocrx_word' id='word_1_3' title='bbox 1148 1807 1203 1951; x_wconf 96' lang='grc' dir='ltr'>Ρ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 536 2165 1195 2720">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 536 2165 1195 2720">
+     <span class='ocr_line' id='line_1_3' title="bbox 667 2165 1189 2349; baseline -0.01 -32"><span class='ocrx_word' id='word_1_4' title='bbox 667 2170 1024 2317; x_wconf 76' lang='lat' dir='ltr'>Camere</span> <span class='ocrx_word' id='word_1_5' title='bbox 1058 2165 1189 2349; x_wconf 85' lang='grc' dir='ltr'>Ορ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 718 2367 1186 2556; baseline -0.009 -40"><span class='ocrx_word' id='word_1_6' title='bbox 718 2367 1186 2556; x_wconf 83' lang='lat' dir='ltr'>WendyWi</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 536 2571 1195 2720; baseline -0.014 5"><span class='ocrx_word' id='word_1_7' title='bbox 536 2688 539 2692; x_wconf 56' lang='grc'><em>»</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 816 2572 1038 2720; x_wconf 74' lang='lat' dir='ltr'>June</span> <span class='ocrx_word' id='word_1_9' title='bbox 1075 2571 1195 2717; x_wconf 86' lang='grc' dir='ltr'>Κυ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1210 3352">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1210 3352">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1210 3352; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1210 3352; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
